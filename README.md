@@ -73,28 +73,6 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-## Choose from these tasks
-### 1. Add your name
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
-
-```markdown
-#### Name: [YOUR NAME](GitHub link)
-- GitHub(user name): [GitHub user name
--contribution(name &short description):Grocery Store app in android studio (e.g)
-
-or By simple Drag and drop
-- Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
-- Wait for your PR review and merge approval...
-```
-
-
-### 2. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
-
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_Aniket.py`.
-
-Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
-
 
 ## Reference links ✔
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
